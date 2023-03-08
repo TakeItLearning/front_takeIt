@@ -45,8 +45,8 @@ export default function Example() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="/articles" className="flex items-center">
-          Article
+        <a href="/actualites" className="flex items-center">
+          Actualités
         </a>
       </Typography>
       <Typography
@@ -55,8 +55,18 @@ export default function Example() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="/quizz" className="flex items-center">
-          Quizz
+        <a href="/connexion" className="flex items-center">
+          Connexion
+        </a>
+      </Typography>
+      <Typography
+        as="li"
+        variant="small"
+        color="blue-gray"
+        className="p-1 font-normal"
+      >
+        <a href="/inscription" className="flex items-center">
+          Inscription
         </a>
       </Typography>
     </ul>
