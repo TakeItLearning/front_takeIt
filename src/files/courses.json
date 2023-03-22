@@ -1,0 +1,232 @@
+[
+  {
+    "titre": "Introduction à l'ordinateur",
+    "description": "Apprenez les différentes parties d'un ordinateur et comment il fonctionne.",
+    "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
+    "auteur": "John Doe",
+    "niveau": "débutant",
+    "temps": "1 heure",
+    "id": 1,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  },
+  {
+    "titre": "Navigation sur internet",
+    "description": "Apprenez à utiliser un navigateur web pour rechercher des informations, visiter des sites web et envoyer des e-mails.",
+    "image": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "auteur": "Jane Doe",
+    "niveau": "débutant",
+    "temps": "1 heure",
+    "id": 2,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  },
+  {
+    "titre": "Utilisation de la souris et du clavier",
+    "description": "Apprenez à utiliser correctement la souris et le clavier pour effectuer des tâches informatiques courantes.",
+    "image": "https://images.unsplash.com/photo-1634306626082-9aad4bdb6e71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1228&q=80",
+    "auteur": "John Smith",
+    "niveau": "expert",
+    "temps": "1 heure",
+    "id": 3,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  },
+  {
+    "titre": "Traitement de texte",
+    "description": "Apprenez à utiliser un logiciel de traitement de texte pour créer et éditer des documents.",
+    "image": "https://images.unsplash.com/photo-1541854615901-93c354197834?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1173&q=80",
+    "auteur": "Jane Smith",
+    "niveau": "débutant",
+    "temps": "1 heure",
+    "id": 4,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  },
+  {
+    "titre": "Gestion des fichiers",
+    "description": "Apprenez à organiser et à gérer des fichiers et des dossiers sur votre ordinateur.",
+    "image": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "auteur": "John Johnson",
+    "niveau": "expert",
+    "temps": "1 heure",
+    "id": 5,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  },
+  {
+    "titre": "Sécurité informatique",
+    "description": "Comprenez les bases de la sécurité informatique, telles que la création de mots de passe forts et la protection contre les virus.",
+    "image": "https://images.unsplash.com/photo-1563206767-5b18f218e8de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+    "auteur": "Jane Johnson",
+    "niveau": "expert",
+    "temps": "1 heure",
+    "id": 6,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  },
+  {
+    "titre": "Introduction à la programmation",
+    "description": "Apprenez les concepts de base de la programmation informatique à travers un langage simple comme Scratch.",
+    "image": "https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+    "auteur": "John Doe",
+    "niveau": "débutant",
+    "temps": "1 heure",
+    "id": 7,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  },
+  {
+    "titre": "Utilisation des médias sociaux",
+    "description": "Apprenez à utiliser les principales plateformes de médias sociaux pour interagir avec les autres et partager des informations en ligne.",
+    "image": "https://images.unsplash.com/photo-1616509091334-2be806ea7a3b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1074&q=80",
+    "auteur": "Jane Smith",
+    "niveau": "débutant",
+    "temps": "1 heure",
+    "id": 8,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  },
+  {
+    "titre": "Introduction à la conception graphique",
+    "description": "Apprenez les bases de la conception graphique et comment créer des images simples à l'aide d'outils en ligne gratuits comme Canva.",
+    "image": "https://images.unsplash.com/photo-1655635643617-72e0b62b9278?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80",
+    "auteur": "John Johnson",
+    "niveau": "confirmé",
+    "temps": "1 heure",
+    "id": 9,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  },
+  {
+    "titre": "Introduction à la vidéoconférence",
+    "description": "Apprenez à utiliser des applications de vidéoconférence pour communiquer en ligne avec des amis, des collègues et des membres de votre famille.",
+    "image": "https://images.unsplash.com/photo-1586985564150-11ee04838034?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1129&q=80",
+    "auteur": "Jane Johnson",
+    "niveau": "confirmé",
+    "temps": "1 heure",
+    "id": 10,
+    "paragraphes": [
+      {
+        "titre": "Introduction",
+        "contenu": "Dans ce cours, nous allons apprendre les différentes parties d'un ordinateur et comment il fonctionne."
+      },
+      {
+        "titre": "Les composants de l'ordinateur",
+        "contenu": "L'ordinateur est composé de plusieurs éléments tels que le processeur, la carte mère, la mémoire RAM, le disque dur, etc."
+      },
+      {
+        "titre": "Comment ça marche",
+        "contenu": "L'ordinateur fonctionne en exécutant des programmes qui sont stockés dans la mémoire et en utilisant les différents composants pour effectuer des tâches."
+      }
+    ]
+  }
+]
