@@ -1,22 +1,24 @@
-import About from './components/About';
-import AllInOne from './components/AllInOne';
-import Footer from './components/Footer';
-import Hero from './components/Hero';
-import Navbar from './components/Navbar'
-import Pricing from './components/Pricing';
-import Support from './components/Support'
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Navbar from "./components/Navbar";
+import Home from "./components/Home";
+import Courses from "./components/Courses";
+import Articles from "./components/Articles";
+import CoursePage from "./components/CoursePage";
+import Contact from "./components/Contact";
 
 function App() {
   return (
-    <>
+    <Router>
       <Navbar />
-      <Hero />
-      <About />
-      <Support />
-      <AllInOne />
-      <Pricing />
-      <Footer />
-    </>
+      <Routes>
+        <Route path="/cours/:id" element={<CoursePage />} />
+        <Route path="/" element={<Home />} />
+        <Route path="/courses" element={<Courses />} />
+        <Route path="/articles" element={<Articles />} />
+        <Route path="/contact" element={<Contact />} />
+      </Routes>
+    </Router>
   );
 }
 
