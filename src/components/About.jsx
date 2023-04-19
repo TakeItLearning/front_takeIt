@@ -6,18 +6,18 @@ const About = () => {
       <div className="max-w-[1240px] mx-auto">
         <div className="text-center">
           <h2 className="text-5xl font-bold">
-            Trusted by people across the world
+            Approuvé par des gens du monde entier
           </h2>
           <p className="text-3xl py-6 text-gray-500">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque
-            asperiores earum placeat veritatis dignissimos itaque.
+            N'ayez plus peur du numérique. Notre site est simple d'utilisation et vous permez d'apprendre de façon ludique
+            le monde de l'informatique.
           </p>
         </div>
 
         <div className="grid md:grid-cols-3 gap-1 px-2 text-center">
           <div className="border py-8 rounded-xl shadow-xl">
             <p className="text-6xl font-bold text-indigo-600">100%</p>
-            <p className="text-gray-400 mt-2">Completion</p>
+            <p className="text-gray-400 mt-2">Satisfaction</p>
           </div>
           <div className="border py-8 rounded-xl shadow-xl">
             <p className="text-6xl font-bold text-indigo-600">24/7</p>
@@ -25,7 +25,7 @@ const About = () => {
           </div>
           <div className="border py-8 rounded-xl shadow-xl">
             <p className="text-6xl font-bold text-indigo-600">1K</p>
-            <p className="text-gray-400 mt-2">People satisfied</p>
+            <p className="text-gray-400 mt-2">Utilisateurs</p>
           </div>
         </div>
       </div>

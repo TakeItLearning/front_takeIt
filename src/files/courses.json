@@ -1,7 +1,7 @@
 [
   {
-    "titre": "Introduction à l'ordinateur",
-    "description": "Apprenez les différentes parties d'un ordinateur et comment il fonctionne.",
+    "titre": "Introduction à l'informatique",
+    "description": "Prenez en main votre ordinateur, ses fonctionnalités et apprenez à vous repérer dans son environnement.",
     "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1172&q=80",
     "auteur": "John Doe",
     "niveau": "débutant",
