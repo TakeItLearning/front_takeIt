@@ -20,7 +20,7 @@ const Hero = () => {
             Take I.T
           </h1>
           <p className="text-2xl">L'apprentissage aux outils numériques</p>
-          <button className="py-3 px-6 sm:w-[60%] my-4">Découvrir les cuors</button>
+          <button className="py-3 px-6 sm:w-[60%] my-4">Découvrir les cours</button>
         </div>
         <div>
           <img className="w-full" src={bgImg} alt="/" />

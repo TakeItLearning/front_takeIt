@@ -21,7 +21,7 @@ const AllInOne = () => {
             </div>
             <div>
               <h3 className="font-bold text-lg">Gérer son compte en banque</h3>
-              <p className="text-lg pt-2 pb-4">Administrez</p>
+              <p className="text-lg pt-2 pb-4">Administrez vos comptes en banque, surveillez vos dépenses ou effectuez des virements en ligne.</p>
             </div>
           </div>
           <div className="flex">
@@ -32,7 +32,7 @@ const AllInOne = () => {
               <h3 className="font-bold text-lg">
                 Déclarez vos impôts en ligne
               </h3>
-              <p className="text-lg pt-2 pb-4">Réalisez</p>
+              <p className="text-lg pt-2 pb-4">Facilitez vos démarches administratives et apprenez à réalisez votre déclaration d'impôsition directement en ligne.</p>
             </div>
           </div>
           <div className="flex">
@@ -41,7 +41,7 @@ const AllInOne = () => {
             </div>
             <div>
               <h3 className="font-bold text-lg">Maîtriser votre ordinateur</h3>
-              <p className="text-lg pt-2 pb-4">Prenez en main</p>
+              <p className="text-lg pt-2 pb-4">Prenez en main les éléments de votre ordinateur, apprenez à vous repérer dans son environnement et maîtriser ses principaux outils.</p>
             </div>
           </div>
           <div className="flex">
@@ -52,7 +52,7 @@ const AllInOne = () => {
               <h3 className="font-bold text-lg">
                 Apprenez à vous protéger sur internet
               </h3>
-              <p className="text-lg pt-2 pb-4">Apprenez</p>
+              <p className="text-lg pt-2 pb-4">Familiarisez vous avec votre écosystème numérique et apprenez à discerner les menaces. Adoptez les bons réflexes afin de mieux réagir.</p>
             </div>
           </div>
         </div>
